@@ -1,0 +1,11 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Custom Tag Exercise</short-name>
+    <uri>http://javalib.irvingmichael.com/cte</uri>
+    <tag>
+        <name>BACON</name>
+        <tag-class>com.irvingmichael.CustomTagExrc.ExerciseTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
